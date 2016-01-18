@@ -1,0 +1,42 @@
+/* Inserta tu CSS aqui */
+.rosa{
+	position: static;
+	background-color: #ED462F;
+	height: 300px;
+	width: 300px;
+}
+.morado{
+	position: relative;
+	left: 25%;
+	top: 25%;
+	background-color: purple;
+	height: 150px;
+	width: 150px;
+}
+.amarillo{
+	position: absolute;
+	background-color: yellow;
+	height: 75px;
+	width: 75px;
+}
+
+.azul{
+	position: relative;
+	background-color: #0048FB;
+	height: 300px;
+	width: 300px;
+
+}
+.negro{
+	position: static;
+	background-color: black;
+	height: 75px;
+	width: 75px;
+}
+.verde{
+	position: absolute;
+	left: 25%;
+	background-color: #387804;
+	height: 150px;
+	width: 150px;
+}
